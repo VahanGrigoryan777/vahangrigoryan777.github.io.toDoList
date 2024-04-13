@@ -1,0 +1,29 @@
+.myDIV{
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  ul{
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li{
+    margin-left: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .todocontainer{
+    margin-top: 30px;
+    margin-left: 690px;
+  }
+
+  .deleteTask{
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    margin-right: 600px;
+  }
